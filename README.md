@@ -3,7 +3,9 @@ Data cleaning, processing, analysis and dashboard creation for Vrinda Store in E
 Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
 Sample Questions:
+
 1.Compare the sales and orders using single chart
+
 2.Which month got the highest sales and orders?
 3.Who purchased more- men or women in 2022?
 4.What are different order status in 2022?
